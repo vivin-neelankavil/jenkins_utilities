@@ -1,0 +1,1 @@
+Utility to the extract the list of all jobs recursively in a Jenkins instance and generate a csv file with details like _class, buildable, url, job name, lastBuild of the job.
