@@ -1,0 +1,1 @@
+Utility to the extract the list of all builds of a Jenkins job in a Jenkins instance and generate a csv file with the filtered data.
