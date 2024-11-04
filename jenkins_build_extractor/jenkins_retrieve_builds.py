@@ -10,7 +10,7 @@ from datetime import date, timedelta
 start_time = time.time()
 
 # Define your Jenkins URL and credentials
-jenkins_url = "https://own.hosted.site/jenkins/"
+jenkins_url = "https://own.hosted.site/jenkins"
 username = "the_username"
 api_token = "the_password"
 
